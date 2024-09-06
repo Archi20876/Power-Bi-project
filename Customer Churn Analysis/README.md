@@ -52,7 +52,7 @@ The company is facing challenges with customer retention, leading to a decline i
   
  #### Publish the Report to Power Bi service
  
-![App Screenshot](https://1drv.ms/i/c/64CA0463A0426356/EZfKQotiNfZPtCbEX0gA2h8B8agnQh-Y2boISBD4DKVwvA?e=ddJdMO)
+![App Screenshot](https://1drv.ms/i/c/64CA0463A0426356/EZfKQotiNfZPtCbEX0gA2h8B8agnQh-Y2boISBD4DKVwvA?e=ddJdMO/screenshot.png)
 
 # Insights
 
