@@ -8,7 +8,7 @@ The company is facing challenges with customer retention, leading to a decline i
 
 
 
-### Steps followed 
+### Steps followed 👇
 #### Data Prepartion- Cleaning ,Formatting & Reshaping the Data.
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file and click on Load & Transform Data option.
@@ -36,6 +36,9 @@ The company is facing challenges with customer retention, leading to a decline i
  CHURN RATE = 'CUSTOMER DATA'[CUSTOMER LOST]/'CUSTOMER DATA'[CUSTOMERS]
   #### Note :- Create KPI for Total Customers  and Gauge to highlight the Target Churn Rate.
 
+  ![Screenshot 2024-09-06 084006](https://github.com/user-attachments/assets/3b6c651b-b365-471f-9046-4c0375702cf5)
+
+
 
 
 #### Data visualisation - Choosing  and formatting the visual elements.
@@ -51,10 +54,10 @@ The company is facing challenges with customer retention, leading to a decline i
  - Step 18 : Enhance the power bi report by adding filters to charts and bar chart to make the report look user-ineteractive.
   
  #### Publish the Report to Power Bi service
- 
-![App Screenshot](https://1drv.ms/i/c/64CA0463A0426356/EZfKQotiNfZPtCbEX0gA2h8B8agnQh-Y2boISBD4DKVwvA?e=ddJdMO/screenshot.png)
+ ![Dashboard](https://github.com/user-attachments/assets/d707fe28-58ef-47b8-b7dc-614b615cf644)
 
-# Insights
+
+# Insights🔍
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
