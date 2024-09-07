@@ -1,11 +1,14 @@
 # Superstore Sales Analysis
 ![Screenshot 2024-09-07 101304](https://github.com/user-attachments/assets/46fc9673-9268-4835-836f-7756f2299e48)
+![Screenshot 2024-09-07 185428](https://github.com/user-attachments/assets/056cf551-52f3-4019-b83c-e975450e88a0)
+
 
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [Data Sources](#data-sources) 
+- [Bussiness Analytics Q/A](#bussiness-analytics-Q/A)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -34,7 +37,8 @@ In the initial data preparation phase, we performed the following tasks:
 4. Data cleaning and formatting.
    
 
-### Data Analysis & Visualization
+### Bussiness Analysis Q/A
+---
 
 In this project, We utilized Power BI to analyze and visualize sales data, addressing key business questions and answers such as:
 
@@ -63,6 +67,7 @@ In this project, We utilized Power BI to analyze and visualize sales data, addre
 
 
 ### Recommendations
+---
 
 Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
@@ -73,7 +78,10 @@ Based on the analysis, we recommend the following actions:
   
 
 ### Limitations
+---
 
 I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+
+😊😊😊
 
 
