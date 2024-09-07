@@ -1,4 +1,4 @@
-# Superstore Sales Analysis
+# Superstore Sales Analysis📈
 ![Screenshot 2024-09-07 101304](https://github.com/user-attachments/assets/46fc9673-9268-4835-836f-7756f2299e48)
 ![Screenshot 2024-09-07 185428](https://github.com/user-attachments/assets/056cf551-52f3-4019-b83c-e975450e88a0)
 
