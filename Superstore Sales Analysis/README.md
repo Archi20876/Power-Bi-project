@@ -15,7 +15,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "[SuperStore_Sales_Dataset(1).csv](https://1drv.ms/x/c/64CA0463A0426356/Eb3Crys1GZdFrbnJrZCwFKIB7YTT2L_TeDoaN3Wkm6HQlw?e=q6Uxyz)" file, containing detailed information about each sale made by the superstore.
+Sales Data: The primary dataset used for this analysis is the "[SuperStore_Sales_Dataset(1).csv](https://1drv.ms/x/c/64CA0463A0426356/ETvpUelP8XVOmBqvPpor-G0BzYsxBiaT7V6-TqQb8Il47w?e=YXC1YY)" file, containing detailed information about each sale made by the superstore.
 
 ### Tools
 
