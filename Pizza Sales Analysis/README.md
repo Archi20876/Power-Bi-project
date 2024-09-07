@@ -8,7 +8,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Bussiness Analysis Q\A](#Bussiness-Analysis-Q\A)
+- [Bussiness Analysis Q\A](#bussiness-analysis-Q\A)
 - [Recommendations](#recommendations)
 
 ### Project Overview
