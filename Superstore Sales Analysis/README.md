@@ -24,7 +24,7 @@ Sales Data: The primary dataset used for this analysis is the "[SuperStore_Sales
 - Excel - Data Cleaning
   - [Download here](https://1drv.ms/x/c/64CA0463A0426356/Eb3Crys1GZdFrbnJrZCwFKIB7YTT2L_TeDoaN3Wkm6HQlw?e=q6Uxyz) [Cleaned Dataset]
 - PowerBI - Data Analysis & Creating Report
-  - [Dashboard_link](https://app.powerbi.com/groups/me/reports/3763a026-5f03-47b5-ab34-6e0fb7983da0/9ae2ce62761ec1c9213e?experience=power-bi)
+  - [Dashboard_link](https://app.powerbi.com/links/0IY-q9NPuN?ctid=c2188113-fe0c-48d6-b281-450211f20e72&pbi_source=linkShare)
 
 
 ### Data Cleaning/Preparation
