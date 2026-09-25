@@ -1,6 +1,6 @@
 # Customer Churn Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/TrBWLBo8dZ?ctid=b93ac9ba-3a71-4f45-be88-3c6f51b36180&pbi_source=linkShare
+### Dashboard Link : https://app.powerbi.com/links/TrBWLBo8dZ?ctid=b93ac9ba-3a71-4f45-be88-3c6f51b36180&pbi_source=linkShare (If it does not load ,scroll down to see the project)
 ## Problem Statement
 
 The company is facing challenges with customer retention, leading to a decline in revenue and growth. To tackle this issue, the management seeks to gain a deeper understanding of the factors driving customer churn and identify customers at risk of leaving. The objective is to leverage Power BI for analyzing historical customer data, uncovering trends, and delivering actionable insights that can help the company reduce churn rates.
